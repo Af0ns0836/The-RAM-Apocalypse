@@ -1,0 +1,20 @@
+StartChar: j
+Encoding: 106 106 41
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+288 96 m 1,0,-1
+ 1152 96 l 2,1,2
+ 1760 96 1760 96 1760 704 c 0,3,4
+ 1760 1024 1760 1024 1760 1568 c 1,5,-1
+ 1600 1568 l 1,6,7
+ 1600 1152 1600 1152 1600 672 c 0,8,9
+ 1600 256 1600 256 1184 256 c 2,10,-1
+ 288 256 l 1,11,-1
+ 288 96 l 1,0,-1
+EndSplineSet
+Validated: 9
+EndChar

@@ -1,0 +1,18 @@
+StartChar: parenright
+Encoding: 41 41 76
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+896 1792 m 1,0,-1
+ 800 1536 l 1,1,2
+ 1152 1536 1152 1536 1152 896 c 256,3,4
+ 1152 256 1152 256 800 128 c 1,5,-1
+ 896 -128 l 1,6,7
+ 1408 128 1408 128 1408 896 c 256,8,9
+ 1408 1664 1408 1664 896 1792 c 1,0,-1
+EndSplineSet
+Validated: 9
+EndChar
